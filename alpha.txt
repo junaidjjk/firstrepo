@@ -1,1 +1,1 @@
-beta gamma delta
+alpha gamma delta
